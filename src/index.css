@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    background-color: #001233;
+}
+
+@font-face {
+    font-family: 'SpaceMono-bold';
+    src: url(./public/fonts/SpaceMono-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'SpaceMono-bold-itl';
+    src: url(./public/fonts/SpaceMono-BoldItalic.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'SpaceMono-itl';
+    src: url(./public/fonts/SpaceMono-Italic.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'SpaceMono';
+    src: url(./public/fonts/SpaceMono-Regular.ttf) format("truetype");
+}
