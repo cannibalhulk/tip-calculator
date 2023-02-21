@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./src/design/desktop-design-completed.jpg)
+![image](./src/design/screen.jpg)
 
 ### Built with
 
